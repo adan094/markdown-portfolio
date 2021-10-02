@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Me
+
+Below is random *stuff* **yay**!
+
+1. thing
+2.  also thing
+
